@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>180517_Vasanthi Kasinathan_1.png</filename>
+	<path>/home/sula/PycharmProjects/pimp_ml/tf_2/Tensorflow/workspace/training_demo/images/180517_Vasanthi Kasinathan_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>337</ymin>
+			<xmax>1450</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>664</ymin>
+			<xmax>1255</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>1142</ymin>
+			<xmax>1504</xmax>
+			<ymax>1959</ymax>
+		</bndbox>
+	</object>
+</annotation>

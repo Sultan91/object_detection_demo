@@ -1,86 +1,86 @@
 <annotation>
 	<folder>images</folder>
-	<filename>10.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\10.jpg</path>
+	<filename>EditedFile_0.png</filename>
+	<path>/home/sula/PycharmProjects/pimp_ml/tf_2/Tensorflow/workspace/training_demo/images/EditedFile_0.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>1654</width>
+		<height>2339</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>info</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>182</ymin>
-			<xmax>695</xmax>
-			<ymax>359</ymax>
+			<xmin>155</xmin>
+			<ymin>148</ymin>
+			<xmax>710</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>education</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>256</xmin>
-			<ymin>27</ymin>
-			<xmax>381</xmax>
-			<ymax>192</ymax>
+			<xmin>144</xmin>
+			<ymin>536</ymin>
+			<xmax>1453</xmax>
+			<ymax>781</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>work</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>267</xmin>
-			<ymin>266</ymin>
-			<xmax>402</xmax>
-			<ymax>489</ymax>
+			<xmin>153</xmin>
+			<ymin>1085</ymin>
+			<xmax>1430</xmax>
+			<ymax>1213</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>work</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>208</xmin>
-			<ymin>193</ymin>
-			<xmax>313</xmax>
-			<ymax>266</ymax>
+			<xmin>151</xmin>
+			<ymin>1224</ymin>
+			<xmax>1436</xmax>
+			<ymax>1358</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>work</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>113</xmin>
-			<ymin>295</ymin>
-			<xmax>226</xmax>
-			<ymax>397</ymax>
+			<xmin>153</xmin>
+			<ymin>1383</ymin>
+			<xmax>1363</xmax>
+			<ymax>1517</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>work</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>359</ymin>
-			<xmax>275</xmax>
-			<ymax>459</ymax>
+			<xmin>151</xmin>
+			<ymin>1536</ymin>
+			<xmax>1442</xmax>
+			<ymax>1742</ymax>
 		</bndbox>
 	</object>
 </annotation>
